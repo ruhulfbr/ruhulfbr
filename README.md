@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-I am a passionate and experienced software engineer with over 5+ years of expertise in the field. Currently, I am proudly serving as a Senior Software Engineer at a reputable local software company. My enthusiasm for coding knows no bounds, and I find joy in crafting elegant solutions to complex problems, constantly pushing the boundaries of what technology can achieve.
+<p>I am a passionate and experienced software engineer with over 5+ years of expertise with well-developed skills in web technologies and system development, and an unapologetic user-focused philosophy. Currently, I am proudly serving as a Senior Software Engineer at a reputable local software company. I have developed several web applications and services. To work in a friendly and cooperative environment where I can express my creativity and sharpen my technical skills will lead me to become a professional engineer.</p>
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> </p>
 
