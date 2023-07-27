@@ -52,12 +52,12 @@ etc.)</li>
 <li><b>BANKING KYC SYSTEM:</b> KYC is a platform used by banks to customize KYC forms & collect user information. Develop with NodeJS, Express, Python, Django, MySQL & JavaScript.</li>
 
 <li><b>PRESTIGE LABS:</b> Prestige Labs is a large US-based e-commerce platform focused on human health.
-And offer Various Options. (https://prestigelabs.com). Develop with PHP, Codeigniter, Node JS, MySQL, JavaScript & React JS. </li>
+And offer Various Options. Develop with PHP, Codeigniter, Node JS, MySQL, JavaScript & React JS. </li>
 
-<li><b>ALAN:</b> ARTIFICIAL LEAD AUTOMATION & NURTURE (https://usealan.com). Automated customised and personalized campaigns developed by some of the top client acquisition experts in the USA. Develop with PHP, Codeigniter, Node JS, MySQL, and JavaScript. </li>
+<li><b>ALAN:</b> ARTIFICIAL LEAD AUTOMATION & NURTURE. Automated customised and personalized campaigns developed by some of the top client acquisition experts in the USA. Develop with PHP, Codeigniter, Node JS, MySQL, and JavaScript. </li>
 
 <li><b>AL-QURAN:</b> Online Platform for reading and learning the holy Quran in the Bengali language.
-Also, have a mobile application. (https://alquran-bangla.com). Develop with NodeJs, Express, PHP, Codeigniter, MySQL, JavaScript & React JS. </li>
+Also, have a mobile application. Develop with NodeJs, Express, PHP, Codeigniter, MySQL, JavaScript & React JS. </li>
 
 
 <!--
