@@ -30,7 +30,8 @@ I am a passionate and experienced software engineer with over 5+ years of expert
 
 
 <h3>⚡ Also I have:</h3>
-<li>Strong knowledge of Core JavaScript, PHP, OOP, Design patterns, SOLID principles, Software Architecture & Design. Expert in MVC design Patterns.</li>
+<li>Strong knowledge of Core JavaScript, PHP, OOP, Design patterns, SOLID principles, Software Architecture & Design. </li>
+<li>Expert in MVC design Patterns.</li>
 <li>Love to write clean, secure, test-driven, easily maintainable, and modular codes.</li>
 <li>Comfortable with testing tools like Jest, Cypress & PHPUnit.</li>
 <li>REST API development and Payment gateway integration.</li>
