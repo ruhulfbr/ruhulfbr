@@ -1,4 +1,46 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
+I am a passionate and experienced software engineer with over 5+ years of expertise in the field. Currently, I am proudly serving as a Senior Software Engineer at a reputable local software company. My enthusiasm for coding knows no bounds, and I find joy in crafting elegant solutions to complex problems, constantly pushing the boundaries of what technology can achieve.
+
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> </p>
+
+<h3>☕ Connect with me!</h3>
+<p>
+    <a href="https://www.facebook.com/ruhulamin.imran" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+ <a href="https://www.youtube.com/@codemuseum" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="mailto:ruhul11bd@gmail.com" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="https://www.linkedin.com/in/md-ruhul-amin/">
+    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+</p>
+<p>
+    <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
+    <span>💻 Most used line of code console.log("hello ruhul").</span> <br>
+    <span>🤔 I’m looking for people who can help me with Outstanding Project ideas. </span> <br>
+    <span>📧 How to reach me: ruhul11bd@gmail.com.</span> <br>
+    <span>🔭  I’m currently working on Technobd Limited.</span> <br>
+</p>
+
+<h3>⚡ Technology I code with JavaScript, PHP, Python, Node JS, SQL, MySQL, MongoDB. Good at frameworks like Express, CodeIgniter, Laravel, Lumen and Django.</h3>
+
+
+<h3>⚡ Also I have:</h3>
+<li>Strong knowledge of Core JavaScript, PHP, OOP, Design patterns, SOLID principles, Software Architecture & Design. Expert in MVC design Patterns.</li>
+<li>Love to write clean, secure, test-driven, easily maintainable, and modular codes.</li>
+<li>Comfortable with testing tools like Jest, Cypress & PHPUnit.</li>
+<li>REST API development and Payment gateway integration.</li>
+<li>Good knowledge of MySQL/MariaDB, Redis and NoSQL (MongoDB)</li>
+<li>Database designing and query optimisation techniques.</li>
+<li>Familiar with web technology stack (like HTTP(s), REST, JSON, XML, Docker, Git,
+etc.)</li>
+<li>Developing Tools: PhpStorm, Sublime Text, VS Code, Atom & Pycharm.</li>
+<li>Adaptive, Quick Learner, Great listener, Critical Thinking, Problem-Solving, Time Management, Effective Communication, Teamwork.</li>
+<li>Love to work in a team with reliability and a sense of responsibility.</li>
 
 <!--
 **ruhulfbr/ruhulfbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
