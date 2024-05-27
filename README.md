@@ -1,7 +1,12 @@
 <h3>Hi there 👋</h3>
 <p>I am a passionate and experienced software engineer with over 5+ years of expertise with well-developed skills in web technologies and system development, and an unapologetic user-focused philosophy. Currently, I am proudly serving as a Senior Software Engineer at a reputable local software company. I have developed several web applications and services. To work in a friendly and cooperative environment where I can express my creativity and sharpen my technical skills will lead me to become a professional engineer.</p>
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> </p>
+<br><p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> 
+    <a href="https://wakatime.com/@88753b92-42ac-4cd6-9c5c-44ae2d96dba5"><img src="https://wakatime.com/badge/user/88753b92-42ac-4cd6-9c5c-44ae2d96dba5.svg" alt="Total time coded since May 27 2024" /></a>
+    </p>
+
+
 
 <h3>☕ Connect with me!</h3>
 <p>
