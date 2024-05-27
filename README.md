@@ -3,6 +3,11 @@
 
 <br><p align="left">
     <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> 
+    <img 
+     src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" 
+     alt="Alt text" 
+     title="Optional title"
+     style="width: 20px; display: inline-block;"> 
     <a href="https://wakatime.com/@88753b92-42ac-4cd6-9c5c-44ae2d96dba5"><img src="https://wakatime.com/badge/user/88753b92-42ac-4cd6-9c5c-44ae2d96dba5.svg" alt="Total time coded since May 27 2024" /></a>
     </p>
 
