@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-<p>I am a passionate and experienced software engineer with over 5+ years of expertise with well-developed skills in web technologies and system development, and an unapologetic user-focused philosophy. Currently, I am proudly serving as a Senior Software Engineer at a reputable local software company. I have developed several web applications and services. To work in a friendly and cooperative environment where I can express my creativity and sharpen my technical skills will lead me to become a professional engineer.</p>
+<p>I am a passionate and experienced software engineer with over 5+ years of expertise well-developed skills in web technologies and system development, and an unapologetic user-focused philosophy. I am proudly serving as a Senior Software Engineer at a reputable local software company, Vivasoft Limited. I have developed several web applications and services. To work in a friendly and cooperative environment where I can express my creativity and sharpen my technical skills will lead me to become a professional engineer.</p>
 
 <br><p align="left">
     <img src="https://komarev.com/ghpvc/?username=ruhulfbr&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulfbr" /> 
@@ -33,7 +33,7 @@
     <span>💻 Most used line of code console.log("hello ruhul").</span> <br>
     <span>🤔 I’m looking for people who can help me with Outstanding Project ideas. </span> <br>
     <span>📧 How to reach me: ruhul11bd@gmail.com.</span> <br>
-    <span>🔭  I’m currently working on Technobd Limited.</span> <br>
+    <span>🔭  I’m currently working on Vivasoft Limited.</span> <br>
 </p>
 
 <h3>⚡ Technology I code with JavaScript, PHP, Python, Node JS, SQL, MySQL, MongoDB. Good at frameworks like Express, CodeIgniter, Laravel, Lumen and Django.</h3>
@@ -45,11 +45,11 @@
 <li>Love to write clean, secure, test-driven, easily maintainable, and modular codes.</li>
 <li>Comfortable with testing tools like Jest, Cypress & PHPUnit.</li>
 <li>REST API development and Payment gateway integration.</li>
-<li>Good knowledge of MySQL/MariaDB, Redis and NoSQL (MongoDB)</li>
-<li>Database designing and query optimisation techniques.</li>
+<li>Good knowledge of MySQL/MariaDB, PostgreSQL, SQLite, and NoSQL (MongoDB)</li>
+<li>Database designing and query optimization techniques.</li>
 <li>Familiar with web technology stack (like HTTP(s), REST, JSON, XML, Docker, Git,
 etc.)</li>
-<li>Developing Tools: PhpStorm, Sublime Text, VS Code, Atom & Pycharm.</li>
+<li>Developing Tools: PhpStorm, Pycharm, Goland, Webstrom, Sublime Text, and VS Code</li>
 <li>Adaptive, Quick Learner, Great listener, Critical Thinking, Problem-Solving, Time Management, Effective Communication, Teamwork.</li>
 <li>Love to work in a team with reliability and a sense of responsibility.</li>
 
@@ -64,7 +64,7 @@ etc.)</li>
 <li><b>PRESTIGE LABS:</b> Prestige Labs is a large US-based e-commerce platform focused on human health.
 And offer Various Options. Develop with PHP, Codeigniter, Node JS, MySQL, JavaScript & React JS. </li>
 
-<li><b>ALAN:</b> ARTIFICIAL LEAD AUTOMATION & NURTURE. Automated customised and personalized campaigns developed by some of the top client acquisition experts in the USA. Develop with PHP, Codeigniter, Node JS, MySQL, and JavaScript. </li>
+<li><b>ALAN:</b> ARTIFICIAL LEAD AUTOMATION & NURTURE. Automated customized and personalized campaigns developed by some of the top client acquisition experts in the USA. Develop with PHP, Codeigniter, Node JS, MySQL, and JavaScript. </li>
 
 <li><b>AL-QURAN:</b> Online Platform for reading and learning the holy Quran in the Bengali language.
 Also, have a mobile application. Develop with NodeJs, Express, PHP, Codeigniter, MySQL, JavaScript & React JS. </li>
