@@ -11,8 +11,6 @@
     <a href="https://wakatime.com/@88753b92-42ac-4cd6-9c5c-44ae2d96dba5"><img src="https://wakatime.com/badge/user/88753b92-42ac-4cd6-9c5c-44ae2d96dba5.svg" alt="Total time coded since May 27 2024" /></a>
     </p>
 
-
-
 <h3>☕ Connect with me!</h3>
 <p>
     <a href="https://www.facebook.com/ruhulamin.imran" target="_blank">
